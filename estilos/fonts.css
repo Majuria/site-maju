@@ -1,0 +1,20 @@
+@font-face {
+    font-family:'ZillaSlab-Regular';
+    src: url('../components/fonts/ZillaSlab-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:'ZillaSlab-BoldItalic';
+    src: url('../components/fonts/ZillaSlab-BoldItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:'Comfortaa-VariableFont_wght';
+    src: url('../components/fonts/Comfortaa-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
